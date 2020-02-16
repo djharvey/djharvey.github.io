@@ -10,7 +10,7 @@ This little console application is designed to go into the current user's AppDat
 
 See the [repository page](https://github.com/djharvey/TurboTaxWindows7WarningDisabler/#turbotax-windows-7-warning-disabler) for more information
 
-### Buy Me a Coffee
+### Buy Me a Coffee?
 
 If (and only if) you have found my work helpful and feel so inclined, tips are always appreciated but never expected.
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N7STENDX6DGHE&currency_code=USD" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="Donate with PayPal button" /></a>
