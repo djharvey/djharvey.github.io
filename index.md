@@ -8,7 +8,7 @@ If you're tired of the TurboTax 2019 Windows 7 to Windows 10 update warning/nag 
 
 This little console application is designed to go into the current user's AppData folder and modify the pertinent setting in the settings JSON file. A backup version of the file is also made in case you might need to restore it.
 
-See the [repository page](https://github.com/djharvey/TurboTaxWindows7WarningDisabler/#turbotax-windows-7-warning-disabler) for more information
+See the [repository page](https://github.com/djharvey/TurboTaxWindows7WarningDisabler/#turbotax-windows-7-warning-disabler) for more information.
 
 ### Buy Me a Coffee?
 
